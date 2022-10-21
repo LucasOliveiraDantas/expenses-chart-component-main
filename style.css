@@ -321,3 +321,16 @@ body{
 		font-size: 14.2px;
 	}
 }
+
+@media screen and (max-width: 360px){
+	.container-central{
+		width: 290px;
+	}
+	.column-grafico{
+		width: 26px;
+	}
+	.info-column{
+		font-size: 12px;
+		padding: 0.5em;
+	}
+}
